@@ -1,0 +1,22 @@
+﻿body {align-content :center ;
+    margin:0 auto;
+    width: 90%;
+}
+div.bg1 {
+    height: 500px;
+    background-image: url('../image/background1.png');
+    background-repeat: inherit;
+}
+div.tile {
+    width: 510px;
+    height: 330px;
+    left: 470px;
+    top: 100px;
+    position: absolute;
+}
+div.earth {
+    width: 1000px;
+    height: 400px;
+    top: 500px;
+    position: absolute;
+}
